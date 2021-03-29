@@ -26,4 +26,4 @@ Click the buttons to see next or previous superhero.
   Visit this link to check this website: https://avengers-cards-scrollable-js.netlify.app/
   
   
-  <img src="images/screenshot.png" width= "550" height= "300" >
+  <img src="/public/images/screenshot.png" width= "550" height= "300" >
