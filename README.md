@@ -23,7 +23,7 @@ Click the buttons to see next or previous superhero.
   - CSS
   - React.js
   
-  Visit this link to check this website: https://avengers-cards-scrollable-js.netlify.app/
+  Live: 
   
   
   <img src="/public/images/screenshot.png" width= "450" height= "300" >
